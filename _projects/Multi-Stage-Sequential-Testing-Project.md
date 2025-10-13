@@ -2,7 +2,6 @@
 title: "Multi-Stage N-signal Sequential Testing Problem (with coauthors)"
 collection: projects
 permalink: /projects/n-signal-sequential-testing/
-date: 2025-01-01
 excerpt: "Extended the Bellman framework to multi-stage sequential testing problems and established the equality of multi-stage and single-stage value functions."
 ---
 **Institution:** Department of Mathematics, Columbia University  
