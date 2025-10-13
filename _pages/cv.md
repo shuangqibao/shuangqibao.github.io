@@ -14,7 +14,7 @@ author_profile: true
 
 ## Research Experience
 - **Research Assistant**, Department of Mathematics, Columbia University (Dec 2024 – Present)  
-  Supervisors: Prof. Ioannis Karatzas
+  Supervisor: Prof. Ioannis Karatzas
   - Extended the Bellman and Dynamic Programming framework to multi-stage sequential testing problems  
   - Established the equality of multi-stage and single-stage value functions via local analysis of the Bellman recursion  
 
