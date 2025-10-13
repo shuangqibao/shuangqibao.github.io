@@ -1,0 +1,19 @@
+---
+title: "Data Mining and Behavioral Analytics"
+collection: projects
+permalink: /projects/data-mining-behavioral-analytics/
+date: 2023-01-01
+excerpt: "Developed data-driven tools for educational analytics, automating feedback and analysis pipelines using Python."
+---
+**Institution:** Department of Computer Science, University of Texas at Austin  
+**Advisor:** Kia Teymourian  
+**Period:** May 2022 – Jan 2023  
+
+### Overview
+This project focused on applying **data mining** and **behavioral analytics** techniques to educational data at scale.  
+The goal was to improve the feedback loop for programming courses and automate the generation of summary reports for faculty.
+
+### Contributions
+- Co-authored an unpublished manuscript on **CodeAssist**, an automated feedback system for programming courses.  
+- Built a **Python pipeline** to automatically collect, parse, and clean large-scale homework-submission logs, transforming raw data into analysis-ready tables and significantly reducing manual work.  
+- Designed a **reproducible analytics framework** for course-level metadata, enabling cross-course comparisons and automated summary reporting for instructors.
