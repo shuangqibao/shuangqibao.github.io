@@ -21,14 +21,13 @@ repository: "shuangqibao/shuangqibao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar: "profile.png"
+  name: "Shuangqi Bao"
+  bio: "Researcher in Probability, Optimal Stopping, and Sequential Testing"
+  location: "Princeton, NJ, USA"
+  employer: "Columbia University"
+  email: "sb4857@columbia.edu"
+  uri: "https://shuangqibao.github.io"
 
   # Academic websites
   academia         : # URL
