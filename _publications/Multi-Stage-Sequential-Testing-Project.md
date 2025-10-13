@@ -1,5 +1,5 @@
 ---
-title: "Multi-Stage N-signal Sequential Testing Problem (with S. Campbell and G. Gaitsgori)"
+title: "Multi-Stage N-signal Sequential Testing Problem (with coauthors)"
 collection: projects
 permalink: /projects/n-signal-sequential-testing/
 date: 2025-01-01
