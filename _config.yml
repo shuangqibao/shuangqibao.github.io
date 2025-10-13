@@ -22,7 +22,7 @@ repository: "shuangqibao/shuangqibao.github.io"
 author:
   # Biographic information
   #avatar: "/images/Shuangqi_Bao_Graduation_pic.JPG"
-  avatar: "/images/profile.jpg"
+  avatar: "profile.jpg"
   name: "Shuangqi Bao"
   bio: "Researcher in Probability, Optimal Stopping, and Sequential Testing"
   location: "Princeton, NJ, USA"
