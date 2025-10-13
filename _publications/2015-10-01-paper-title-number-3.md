@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Multi-Stage N-signal Sequential Testing Problem (with S. Campbell and G. Gaitsgori)"
+collection: projects
+permalink: /projects/n-signal-sequential-testing/
+date: 2025-01-01
+excerpt: "Extended the Bellman framework to multi-stage sequential testing problems and established the equality of multi-stage and single-stage value functions."
 ---
+**Institution:** Department of Mathematics, Columbia University  
+**Period:** Dec 2024 – Present  
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+### Overview
+This project extends the Bellman equation and dynamic programming principle to multi-stage sequential testing problems involving multiple independent signals. The goal is to identify the globally optimal switching and stopping strategy.
+
+### Contributions
+- Extended the Bellman equation to the **two-stage** sequential testing problem.  
+- Proved the **equality between multi-stage and single-stage value functions** using local analysis of the Bellman recursion.  
+- Generalized the framework to **N-signal systems**, deriving the optimal stopping rule and global optimal strategy.  
