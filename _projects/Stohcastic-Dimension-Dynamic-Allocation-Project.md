@@ -2,7 +2,6 @@
 title: "Dynamic Allocation Problem in Discrete Time with Stochastic Dimensions"
 collection: projects
 permalink: /projects/dynamic-allocation-stochastic-dimension/
-date: 2025-02-01
 excerpt: "Discrete non-Markovian dynamic allocation problem with stochastic dimension and strategy-dependent arms."
 ---
 **Advisor:** Ioannis Karatzas  
