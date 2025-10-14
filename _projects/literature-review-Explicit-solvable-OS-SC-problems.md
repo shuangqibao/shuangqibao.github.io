@@ -2,7 +2,6 @@
 title: "Literature Review on Explicitly Solvable Optimal Stopping and Stochastic Control Problems"
 collection: projects
 permalink: /projects/literature-review-optimal-stopping/
-date: 2025-03-01
 excerpt: "Comprehensive literature review and proof reconstruction on explicit solutions of optimal stopping and stochastic control problems."
 ---
 **Advisor:** Ioannis Karatzas  
